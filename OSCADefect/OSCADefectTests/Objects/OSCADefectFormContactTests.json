@@ -1,0 +1,149 @@
+{
+    "results": [
+        {
+            "objectId": "RlSpilJsoBvyF9ZP",
+            "category": "Stadtsauberkeit",
+            "subcategory": "Verunreinigungen u. wilde M\u00fcllkippen",
+            "email": "WildeKippen@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Verunreinigungen u. wilde M\u00fcllkippen",
+            "title": "Verunreinigungen u. wilde M\u00fcllkippen",
+            "position": 0,
+            "createdAt": "2022-09-30T20:14:41.583Z",
+            "updatedAt": "2022-09-30T20:14:41.583Z"
+        },
+        {
+            "objectId": "ZFNnpzauswgJ243F",
+            "category": "Stadtsauberkeit",
+            "subcategory": "Fremdablagerung n. Sperrgutabfuhr",
+            "email": "TBS.Sperrgut@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Fremdablagerung n. Sperrgutabfuhr",
+            "title": "Fremdablagerung n. Sperrgutabfuhr",
+            "position": 1,
+            "createdAt": "2022-09-30T20:14:42.948Z",
+            "updatedAt": "2022-09-30T20:14:42.948Z"
+        },
+        {
+            "objectId": "eAPRggDSPT9EOkn7",
+            "category": "Ampel defekt",
+            "email": "lichtsignalanlagen@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Ampel defekt",
+            "title": "Ampel defekt",
+            "position": 2,
+            "createdAt": "2022-09-30T20:14:42.949Z",
+            "updatedAt": "2022-09-30T20:14:42.949Z"
+        },
+        {
+            "objectId": "ZGdC0Lfpr3x2EExo",
+            "category": "Sch\u00e4den an B\u00e4umen",
+            "email": "n.offer@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Sch\u00e4den an B\u00e4umen ",
+            "title": "Sch\u00e4den an B\u00e4umen",
+            "position": 3,
+            "createdAt": "2022-09-30T20:14:42.952Z",
+            "updatedAt": "2022-09-30T20:14:42.952Z"
+        },
+        {
+            "objectId": "p5SRyfURdf6Wcr4T",
+            "category": "Sch\u00e4den an Geh- oder Radwegen",
+            "email": "Strassenunterhaltung@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Sch\u00e4den an Geh- oder Radwegen",
+            "title": "Sch\u00e4den an Geh- oder Radwegen",
+            "position": 4,
+            "createdAt": "2022-09-30T20:14:42.953Z",
+            "updatedAt": "2022-09-30T20:14:42.953Z"
+        },
+        {
+            "objectId": "4BZWNmkJBvjleqg7",
+            "category": "Spielger\u00e4t auf Spielplatz defekt",
+            "email": "j.haesen@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Spielger\u00e4t auf Spielplatz defekt",
+            "title": "Spielger\u00e4t auf Spielplatz defekt",
+            "position": 5,
+            "createdAt": "2022-09-30T20:14:42.954Z",
+            "updatedAt": "2022-09-30T20:14:42.954Z"
+        },
+        {
+            "objectId": "YqsVkEwIWEuGS1nl",
+            "category": "Beleuchtung defekt",
+            "email": "beleuchtung@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Beleuchtung defekt",
+            "title": "Beleuchtung defekt",
+            "position": 6,
+            "createdAt": "2022-09-30T20:14:42.955Z",
+            "updatedAt": "2022-09-30T20:14:42.955Z"
+        },
+        {
+            "objectId": "h7QvvkJJ1IPN1CiT",
+            "category": "Parkscheinautomat defekt",
+            "email": "parkraum@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Parkscheinautomat defekt",
+            "title": "Parkscheinautomat defekt",
+            "position": 7,
+            "createdAt": "2022-09-30T20:14:42.957Z",
+            "updatedAt": "2022-09-30T20:14:42.957Z"
+        },
+        {
+            "objectId": "4KHiADJ5HSNYwPid",
+            "category": "Verkehrszeichen besch\u00e4digt",
+            "email": "beschilderung@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Verkehrszeichen besch\u00e4digt",
+            "title": "Verkehrszeichen besch\u00e4digt",
+            "position": 8,
+            "createdAt": "2022-09-30T20:14:42.958Z",
+            "updatedAt": "2022-09-30T20:14:42.958Z"
+        },
+        {
+            "objectId": "9LHcQUK24dGRe0ft",
+            "category": "Stra\u00dfensch\u00e4den",
+            "email": "Strassenunterhaltung@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Stra\u00dfensch\u00e4den",
+            "title": "Stra\u00dfensch\u00e4den",
+            "position": 9,
+            "createdAt": "2022-09-30T20:14:42.959Z",
+            "updatedAt": "2022-09-30T20:14:42.959Z"
+        },
+        {
+            "objectId": "nzFNu1Y8Ua2LOWFz",
+            "category": "Stra\u00dfenausstattung besch\u00e4digt",
+            "subcategory": "Pfosten, Poller, Schranken etc. besch\u00e4digt",
+            "email": "Strassenunterhaltung@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Pfosten, Poller, Schranken etc. besch\u00e4digt",
+            "title": "Pfosten, Poller, Schranken etc. besch\u00e4digt",
+            "position": 10,
+            "createdAt": "2022-09-30T20:14:42.960Z",
+            "updatedAt": "2022-09-30T20:14:42.960Z"
+        },
+        {
+            "objectId": "SfdQrbW4vL25SMpu",
+            "category": "Stra\u00dfenausstattung besch\u00e4digt",
+            "subcategory": "B\u00e4nke und \u00e4hnliche Stadtm\u00f6bel",
+            "email": "WildeKippen@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: B\u00e4nke und \u00e4hnliche Stadtm\u00f6bel",
+            "title": "B\u00e4nke und \u00e4hnliche Stadtm\u00f6bel besch\u00e4digt",
+            "position": 11,
+            "createdAt": "2022-09-30T20:14:42.967Z",
+            "updatedAt": "2022-09-30T20:14:42.967Z"
+        },
+        {
+            "objectId": "tn5Um0OSzOSC7LhX",
+            "category": "Kanal/Gully verstopft o. besch\u00e4digt",
+            "subcategory": "Sinkkasten verstopft",
+            "email": "kanalbetrieb@solingen.de",
+            "emailSubject": "Neue Mangelmeldung: Sinkkasten verstopft",
+            "title": "Sinkkasten verstopft",
+            "position": 12,
+            "createdAt": "2022-09-30T20:14:42.972Z",
+            "updatedAt": "2022-09-30T20:14:42.972Z"
+        },
+        {
+            "objectId": "F1fnDzfdlaN8Mdvh",
+            "category": "andere Meldung",
+            "email": "f.nithammer@mammutmedia.eu",
+            "emailSubject": "Neue Mangelmeldung: andere Meldung",
+            "title": "andere Meldung",
+            "position": 13,
+            "createdAt": "2022-09-30T20:14:42.974Z",
+            "updatedAt": "2022-10-01T10:25:15.448Z"
+        }
+    ]
+}
